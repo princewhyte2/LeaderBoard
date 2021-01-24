@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="title_activity_testa">Testa</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="gads_image">This is the logo of gads 2020</string>
+
+    <string name="tab_label1">Learning Leaders</string>
+    <string name="tab_label2">Skill IQ Leaders</string>
+    <string name="leader_name">John Doe</string>
+    <string name="leader_location">223 learning hours, kenya</string>
+    <string name="leader_badge">leader badge</string>
+    <string name="check_your_internet_connection">Check your Internet Connection</string>
+</resources>

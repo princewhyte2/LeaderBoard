@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="backgroundColor">@color/white</item>
+        <item name="background">@drawable/button_bg_rounded_corners</item>
+    </style>
+    <style name="tablayout" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="backgroundColor">@color/white</item>
+        <item name="background">@drawable/button_bg_rounded_corners</item>
+    </style>
+</resources>
